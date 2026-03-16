@@ -29,9 +29,9 @@ export default function Hero() {
       </div>
 
       {/* Right — portrait */}
-      <div className="w-auto  md:w-105 lg:shrink-0 flex items-center justify-center">
-        <div className="overflow-hidden border border-[#A5B1B9] bg-[#D8D4CB]">
-          <img src={headShot} alt="Butters" className="w-full h-full object-cover object-top" />
+      <div className="w-80 sm:w-100 md:w-105 lg:shrink-0 flex items-center justify-center">
+        <div className="overflow-hidden border border-[#A5B1B9] bg-[#D8D4CB] aspect-700/850 w-full">
+          <img src={headShot} alt="Butters" width="700" height="850" className="w-full h-full object-cover object-top" />
         </div>
       </div>
     </section>
