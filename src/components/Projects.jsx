@@ -45,7 +45,7 @@ const categories = [
   },
   {
     label: "Game & Interactive",
-    labelColor: "#7C5C58",
+    labelColor: "#798d9a",
     cardBg: "bg-surface-cool",
     cardBorder: "border-surface-cool-border",
     items: [
