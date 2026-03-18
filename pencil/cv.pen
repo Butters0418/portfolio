@@ -1,0 +1,1527 @@
+{
+  "version": "2.9",
+  "children": [
+    {
+      "type": "frame",
+      "id": "8mdd5",
+      "x": 0,
+      "y": 0,
+      "name": "Resume A4",
+      "width": 794,
+      "height": 1123,
+      "fill": "#ffffff",
+      "children": [
+        {
+          "type": "frame",
+          "id": "CVF0B",
+          "name": "Left Column",
+          "width": 238,
+          "height": "fill_container",
+          "fill": "#f7f7f5",
+          "layout": "vertical",
+          "gap": 18,
+          "padding": [
+            45,
+            28,
+            45,
+            40
+          ],
+          "children": [
+            {
+              "type": "rectangle",
+              "cornerRadius": 44,
+              "id": "qrPST",
+              "name": "Photo",
+              "fill": {
+                "type": "image",
+                "enabled": true,
+                "url": "./headshot.png",
+                "mode": "fill"
+              },
+              "width": 88,
+              "height": 88
+            },
+            {
+              "type": "frame",
+              "id": "jAGnB",
+              "name": "ns",
+              "width": "fill_container",
+              "layout": "vertical",
+              "gap": 4,
+              "children": [
+                {
+                  "type": "text",
+                  "id": "3EHm4",
+                  "name": "nZH",
+                  "fill": "#1a1a1a",
+                  "content": "劉兆翔",
+                  "fontFamily": "Inter",
+                  "fontSize": 24,
+                  "fontWeight": "700"
+                },
+                {
+                  "type": "text",
+                  "id": "gXWaw",
+                  "name": "nEN",
+                  "fill": "#999999",
+                  "content": "Butters Liou",
+                  "fontFamily": "Inter",
+                  "fontSize": 12,
+                  "fontWeight": "normal",
+                  "letterSpacing": 0.5
+                },
+                {
+                  "type": "text",
+                  "id": "Tumv6",
+                  "name": "nTI",
+                  "fill": "#666666",
+                  "content": "Frontend Developer",
+                  "fontFamily": "Inter",
+                  "fontSize": 10,
+                  "fontWeight": "normal",
+                  "letterSpacing": 1
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "JHxJr",
+              "name": "dv1",
+              "width": "fill_container",
+              "height": 1,
+              "fill": "#e0e0e0"
+            },
+            {
+              "type": "frame",
+              "id": "Nxxn0",
+              "name": "prSect",
+              "width": "fill_container",
+              "layout": "vertical",
+              "gap": 6,
+              "children": [
+                {
+                  "type": "text",
+                  "id": "FtKss",
+                  "name": "prLbl",
+                  "fill": "#999999",
+                  "content": "PROFILE",
+                  "fontFamily": "Inter",
+                  "fontSize": 10,
+                  "fontWeight": "700",
+                  "letterSpacing": 1.5
+                },
+                {
+                  "type": "text",
+                  "id": "j4vl6",
+                  "name": "prTxt",
+                  "fill": "#555555",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "擁有 6 年以上前端開發經驗，專注在 React 生態系，充滿熱情與動力，近期投入研究 AI 工具，致力於將 AI 整合進工作流，用更聰明的方式解決問題並創造價值。",
+                  "lineHeight": 1.7,
+                  "fontFamily": "Inter",
+                  "fontSize": 11,
+                  "fontWeight": "normal"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "j9GZP",
+              "name": "dv2",
+              "width": "fill_container",
+              "height": 1,
+              "fill": "#e0e0e0"
+            },
+            {
+              "type": "frame",
+              "id": "e9cf8",
+              "name": "ctSect",
+              "width": "fill_container",
+              "layout": "vertical",
+              "gap": 6,
+              "children": [
+                {
+                  "type": "text",
+                  "id": "UUiQN",
+                  "name": "ctLbl",
+                  "fill": "#999999",
+                  "content": "CONTACT",
+                  "fontFamily": "Inter",
+                  "fontSize": 10,
+                  "fontWeight": "700",
+                  "letterSpacing": 1.5
+                },
+                {
+                  "type": "frame",
+                  "id": "wQGab",
+                  "name": "r1",
+                  "width": "fill_container",
+                  "gap": 7,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "icon_font",
+                      "id": "FQLtv",
+                      "name": "ic1",
+                      "width": 10,
+                      "height": 10,
+                      "iconFontName": "envelope-fill",
+                      "iconFontFamily": "phosphor",
+                      "fill": "#666666"
+                    },
+                    {
+                      "type": "text",
+                      "id": "MYkHH",
+                      "name": "tx1",
+                      "fill": "#444444",
+                      "content": "swki418@gmail.com",
+                      "fontFamily": "Inter",
+                      "fontSize": 11,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "Ayf6t",
+                  "name": "r2",
+                  "width": "fill_container",
+                  "gap": 7,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "icon_font",
+                      "id": "YuwiQ",
+                      "name": "ic2",
+                      "width": 10,
+                      "height": 10,
+                      "iconFontName": "github-logo-fill",
+                      "iconFontFamily": "phosphor",
+                      "fill": "#666666"
+                    },
+                    {
+                      "type": "text",
+                      "id": "yqNhR",
+                      "name": "tx2",
+                      "fill": "#444444",
+                      "content": "github.com/Butters0418",
+                      "fontFamily": "Inter",
+                      "fontSize": 11,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "dhnWn",
+                  "name": "r3",
+                  "width": "fill_container",
+                  "gap": 7,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "icon_font",
+                      "id": "hAOZm",
+                      "name": "ic3",
+                      "width": 10,
+                      "height": 10,
+                      "iconFontName": "linkedin-logo-fill",
+                      "iconFontFamily": "phosphor",
+                      "fill": "#666666"
+                    },
+                    {
+                      "type": "text",
+                      "id": "HpFdh",
+                      "name": "tx3",
+                      "fill": "#444444",
+                      "content": "linkedin.com/in/butters0418/",
+                      "fontFamily": "Inter",
+                      "fontSize": 11,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "ru3Tg",
+                  "name": "r4",
+                  "width": "fill_container",
+                  "gap": 7,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "icon_font",
+                      "id": "QI7mW",
+                      "name": "ic4",
+                      "width": 10,
+                      "height": 10,
+                      "iconFontName": "globe-fill",
+                      "iconFontFamily": "phosphor",
+                      "fill": "#666666"
+                    },
+                    {
+                      "type": "text",
+                      "id": "ZZoTj",
+                      "name": "tx4",
+                      "fill": "#444444",
+                      "content": "butters.idv.tw",
+                      "fontFamily": "Inter",
+                      "fontSize": 11,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "Ml25B",
+                  "name": "r5",
+                  "width": "fill_container",
+                  "gap": 7,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "icon_font",
+                      "id": "itNHD",
+                      "name": "ic5",
+                      "width": 10,
+                      "height": 10,
+                      "iconFontName": "phone-fill",
+                      "iconFontFamily": "phosphor",
+                      "fill": "#666666"
+                    },
+                    {
+                      "type": "text",
+                      "id": "msDYK",
+                      "name": "tx5",
+                      "fill": "#444444",
+                      "content": "0982-306-030",
+                      "fontFamily": "Inter",
+                      "fontSize": 11,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "ZdTbU",
+                  "name": "r6",
+                  "width": "fill_container",
+                  "gap": 7,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "icon_font",
+                      "id": "dyFX5",
+                      "width": 10,
+                      "height": 10,
+                      "iconFontName": "map-pin-fill",
+                      "iconFontFamily": "phosphor",
+                      "fill": "#666666"
+                    },
+                    {
+                      "type": "text",
+                      "id": "KeiJc",
+                      "fill": "#444444",
+                      "content": "台北市",
+                      "fontFamily": "Inter",
+                      "fontSize": 11,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "2NFcT",
+              "name": "dv3",
+              "width": "fill_container",
+              "height": 1,
+              "fill": "#e0e0e0"
+            },
+            {
+              "type": "frame",
+              "id": "7sV0o",
+              "name": "skSect",
+              "width": "fill_container",
+              "layout": "vertical",
+              "gap": 8,
+              "children": [
+                {
+                  "type": "text",
+                  "id": "VJVMJ",
+                  "name": "skLbl",
+                  "fill": "#999999",
+                  "content": "SKILLS",
+                  "fontFamily": "Inter",
+                  "fontSize": 10,
+                  "fontWeight": "700",
+                  "letterSpacing": 1.5
+                },
+                {
+                  "type": "frame",
+                  "id": "VAEcB",
+                  "name": "feGrp",
+                  "width": "fill_container",
+                  "layout": "vertical",
+                  "gap": 3,
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "70qmD",
+                      "name": "feT",
+                      "fill": "#333333",
+                      "content": "Frontend Core",
+                      "fontFamily": "Inter",
+                      "fontSize": 11,
+                      "fontWeight": "700"
+                    },
+                    {
+                      "type": "text",
+                      "id": "nFabC",
+                      "name": "feV",
+                      "fill": "#666666",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container",
+                      "content": "React · TypeScript · Zustand\nReact Query · React Router\nNext.js (in progress)",
+                      "lineHeight": 1.6,
+                      "fontFamily": "Inter",
+                      "fontSize": 10,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "5vkEm",
+                  "name": "stGrp",
+                  "width": "fill_container",
+                  "layout": "vertical",
+                  "gap": 3,
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "jrSbo",
+                      "name": "stT",
+                      "fill": "#333333",
+                      "content": "Styling & Animation",
+                      "fontFamily": "Inter",
+                      "fontSize": 11,
+                      "fontWeight": "700"
+                    },
+                    {
+                      "type": "text",
+                      "id": "FNqVh",
+                      "name": "stV",
+                      "fill": "#666666",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container",
+                      "content": "Tailwind CSS · Styled-Components\nSCSS · Material-UI\nGSAP · Framer Motion",
+                      "lineHeight": 1.6,
+                      "fontFamily": "Inter",
+                      "fontSize": 10,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "mLP38",
+                  "name": "beGrp",
+                  "width": "fill_container",
+                  "layout": "vertical",
+                  "gap": 3,
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "2OOib",
+                      "name": "beT",
+                      "fill": "#333333",
+                      "content": "Backend & Tooling",
+                      "fontFamily": "Inter",
+                      "fontSize": 11,
+                      "fontWeight": "700"
+                    },
+                    {
+                      "type": "text",
+                      "id": "G7wIN",
+                      "name": "beV",
+                      "fill": "#666666",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container",
+                      "content": "Node.js · Express · MongoDB\nVite · Git Workflow",
+                      "lineHeight": 1.6,
+                      "fontFamily": "Inter",
+                      "fontSize": 10,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "rj5Jj",
+                  "name": "aiGrp",
+                  "width": "fill_container",
+                  "layout": "vertical",
+                  "gap": 3,
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "ZwZ09",
+                      "name": "aiT",
+                      "fill": "#333333",
+                      "content": "AI-Assisted Development",
+                      "fontFamily": "Inter",
+                      "fontSize": 11,
+                      "fontWeight": "700"
+                    },
+                    {
+                      "type": "text",
+                      "id": "TAtbv",
+                      "name": "aiV",
+                      "fill": "#666666",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container",
+                      "content": "GitHub Copilot · Claude Code · Codex",
+                      "lineHeight": 1.6,
+                      "fontFamily": "Inter",
+                      "fontSize": 10,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "8L5Bu",
+              "name": "dv4",
+              "width": "fill_container",
+              "height": 1,
+              "fill": "#e0e0e0"
+            },
+            {
+              "type": "frame",
+              "id": "YSJGK",
+              "name": "inSect",
+              "width": "fill_container",
+              "layout": "vertical",
+              "gap": 6,
+              "children": [
+                {
+                  "type": "text",
+                  "id": "SCY9x",
+                  "name": "inLbl",
+                  "fill": "#999999",
+                  "content": "INTERESTS",
+                  "fontFamily": "Inter",
+                  "fontSize": 10,
+                  "fontWeight": "700",
+                  "letterSpacing": 1.5
+                },
+                {
+                  "type": "frame",
+                  "id": "fiDJZ",
+                  "name": "inItems",
+                  "width": "fill_container",
+                  "layout": "vertical",
+                  "gap": 4,
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "DbelR",
+                      "name": "i1",
+                      "width": "fill_container",
+                      "gap": 7,
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "icon_font",
+                          "id": "ETeJ2",
+                          "width": 10,
+                          "height": 10,
+                          "iconFontName": "basketball-fill",
+                          "iconFontFamily": "phosphor",
+                          "fill": "#666666"
+                        },
+                        {
+                          "type": "text",
+                          "id": "7wRjn",
+                          "fill": "#555555",
+                          "content": "運動（羽球、籃球）",
+                          "fontFamily": "Inter",
+                          "fontSize": 11,
+                          "fontWeight": "normal"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "m6q63",
+                      "name": "i2",
+                      "width": "fill_container",
+                      "gap": 7,
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "icon_font",
+                          "id": "tGkEY",
+                          "width": 10,
+                          "height": 10,
+                          "iconFontName": "airplane-fill",
+                          "iconFontFamily": "phosphor",
+                          "fill": "#666666"
+                        },
+                        {
+                          "type": "text",
+                          "id": "XBolz",
+                          "fill": "#555555",
+                          "content": "旅行",
+                          "fontFamily": "Inter",
+                          "fontSize": 11,
+                          "fontWeight": "normal"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "AGiVI",
+                      "name": "i3",
+                      "width": "fill_container",
+                      "gap": 7,
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "icon_font",
+                          "id": "YodEW",
+                          "width": 10,
+                          "height": 10,
+                          "iconFontName": "coffee-fill",
+                          "iconFontFamily": "phosphor",
+                          "fill": "#666666"
+                        },
+                        {
+                          "type": "text",
+                          "id": "AgeBX",
+                          "fill": "#555555",
+                          "content": "咖啡",
+                          "fontFamily": "Inter",
+                          "fontSize": 11,
+                          "fontWeight": "normal"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "8zJgl",
+                      "name": "i4",
+                      "width": "fill_container",
+                      "gap": 7,
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "icon_font",
+                          "id": "IJaah",
+                          "width": 10,
+                          "height": 10,
+                          "iconFontName": "paw-print-fill",
+                          "iconFontFamily": "phosphor",
+                          "fill": "#666666"
+                        },
+                        {
+                          "type": "text",
+                          "id": "i6yA4",
+                          "fill": "#555555",
+                          "content": "貓",
+                          "fontFamily": "Inter",
+                          "fontSize": 11,
+                          "fontWeight": "normal"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "heaB8",
+          "name": "Col Divider",
+          "width": 1,
+          "height": "fill_container",
+          "fill": "#e0e0e0"
+        },
+        {
+          "type": "frame",
+          "id": "ha74c",
+          "name": "Right Column",
+          "width": "fill_container",
+          "height": "fill_container",
+          "fill": "#ffffff",
+          "layout": "vertical",
+          "gap": 20,
+          "padding": [
+            45,
+            40,
+            45,
+            28
+          ],
+          "children": [
+            {
+              "type": "frame",
+              "id": "vL4Dt",
+              "name": "abSect",
+              "width": "fill_container",
+              "layout": "vertical",
+              "gap": 8,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "dUTIf",
+                  "name": "abHdr",
+                  "width": "fill_container",
+                  "stroke": {
+                    "thickness": 0
+                  },
+                  "layout": "vertical",
+                  "gap": 5,
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "5nVf3",
+                      "name": "abLbl",
+                      "fill": "#999999",
+                      "content": "ABOUT ME",
+                      "fontFamily": "Inter",
+                      "fontSize": 13,
+                      "fontWeight": "700",
+                      "letterSpacing": 1.5
+                    },
+                    {
+                      "type": "frame",
+                      "id": "DSNU0",
+                      "width": "fill_container",
+                      "height": 1,
+                      "fill": "#e0e0e0"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "U2MWF",
+                  "name": "abBody",
+                  "width": "fill_container",
+                  "layout": "vertical",
+                  "gap": 8,
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "UwJLx",
+                      "fill": "#555555",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container",
+                      "content": "Hi，我是 Butters，具備多年前端開發經驗，前端職涯從日商嚴謹且重視細節的文化出發，並在 PChome 高流量電商環境中，培養出在高壓下確保品質與交付效率的專業能力。",
+                      "lineHeight": 1.6,
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "fPgfy",
+                      "fill": "#555555",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container",
+                      "content": "在 PChome 期間，我歷經了從行銷前線到集團策略單位的完整洗禮。前期負責雙 11 與各類大型活動及 H5 互動開發，擅長跨部門技術溝通；隨後受邀進入策略部門，負責國內外競業技術調研、企業生態圈的發展與品牌 CIS 重構。這段經歷也讓我能以更高維度去思考「產品與商業價值」。",
+                      "lineHeight": 1.6,
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "0aZ0i",
+                      "fill": "#555555",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container",
+                      "content": "後期主導了技術轉型，導入 React + Tailwind + Vite 與 Git Workflow。透過建立共用元件與彙整 API 規範與上稿細則，解決了過往版型不一與高人力的維護成本。在 AI 協作時代，我將保持熱情並持續打造具有商業價值的產品。",
+                      "lineHeight": 1.6,
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "ouUWl",
+              "name": "expSect",
+              "width": "fill_container",
+              "layout": "vertical",
+              "gap": 20,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "Vr1XW",
+                  "name": "expHdr",
+                  "width": "fill_container",
+                  "stroke": {
+                    "thickness": 0
+                  },
+                  "layout": "vertical",
+                  "gap": 5,
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "0fitk",
+                      "name": "expLbl",
+                      "fill": "#999999",
+                      "content": "WORK EXPERIENCE",
+                      "fontFamily": "Inter",
+                      "fontSize": 13,
+                      "fontWeight": "700",
+                      "letterSpacing": 1.5
+                    },
+                    {
+                      "type": "frame",
+                      "id": "f1DMV",
+                      "width": "fill_container",
+                      "height": 1,
+                      "fill": "#e0e0e0"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "awsb4",
+                  "name": "j0",
+                  "width": "fill_container",
+                  "layout": "vertical",
+                  "gap": 5,
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "nvukk",
+                      "name": "j0h",
+                      "width": "fill_container",
+                      "justifyContent": "space_between",
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "IWjXb",
+                          "name": "j0t",
+                          "fill": "#1a1a1a",
+                          "content": "Side Projects",
+                          "fontFamily": "Inter",
+                          "fontSize": 12,
+                          "fontWeight": "700"
+                        },
+                        {
+                          "type": "text",
+                          "id": "kcgdd",
+                          "name": "j0p",
+                          "fill": "#999999",
+                          "content": "2024.10 – 現在",
+                          "fontFamily": "Inter",
+                          "fontSize": 11,
+                          "fontWeight": "normal"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "1wlSa",
+                      "name": "j0bl",
+                      "width": "fill_container",
+                      "layout": "vertical",
+                      "gap": 6,
+                      "children": [
+                        {
+                          "type": "frame",
+                          "id": "J3o6g",
+                          "name": "p1",
+                          "width": "fill_container",
+                          "layout": "vertical",
+                          "gap": 2,
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "tld5z",
+                              "name": "p1t",
+                              "fill": "#888888",
+                              "content": "餐飲點餐系統",
+                              "fontFamily": "Inter",
+                              "fontSize": 12,
+                              "fontWeight": "normal",
+                              "fontStyle": "italic"
+                            },
+                            {
+                              "type": "frame",
+                              "id": "CpQDF",
+                              "name": "b1",
+                              "width": "fill_container",
+                              "gap": 4,
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "id": "81Kar",
+                                  "fill": "#555555",
+                                  "content": "•",
+                                  "fontFamily": "Inter",
+                                  "fontSize": 12,
+                                  "fontWeight": "normal"
+                                },
+                                {
+                                  "type": "text",
+                                  "id": "Aa4q2",
+                                  "fill": "#555555",
+                                  "textGrowth": "fixed-width",
+                                  "width": "fill_container",
+                                  "content": "前後台全端開發：React + Vite + Tailwind / Node.js + Express + MongoDB",
+                                  "lineHeight": 1.6,
+                                  "fontFamily": "Inter",
+                                  "fontSize": 12,
+                                  "fontWeight": "normal"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "frame",
+                              "id": "Kjx2l",
+                              "name": "b2",
+                              "width": "fill_container",
+                              "gap": 4,
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "id": "EFObB",
+                                  "fill": "#555555",
+                                  "content": "•",
+                                  "fontFamily": "Inter",
+                                  "fontSize": 12,
+                                  "fontWeight": "normal"
+                                },
+                                {
+                                  "type": "text",
+                                  "id": "PK3r3",
+                                  "fill": "#555555",
+                                  "textGrowth": "fixed-width",
+                                  "width": "fill_container",
+                                  "content": "訂單架構支援內用 / 外帶、多階加料、同桌加點、WebSocket 即時同步",
+                                  "lineHeight": 1.6,
+                                  "fontFamily": "Inter",
+                                  "fontSize": 12,
+                                  "fontWeight": "normal"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "frame",
+                              "id": "ujd3g",
+                              "name": "b3",
+                              "width": "fill_container",
+                              "gap": 4,
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "id": "K8g07",
+                                  "fill": "#555555",
+                                  "content": "•",
+                                  "fontFamily": "Inter",
+                                  "fontSize": 12,
+                                  "fontWeight": "normal"
+                                },
+                                {
+                                  "type": "text",
+                                  "id": "Hx7dU",
+                                  "fill": "#555555",
+                                  "textGrowth": "fixed-width",
+                                  "width": "fill_container",
+                                  "content": "使用 TypeScript 提升專案結構性與可維護性",
+                                  "lineHeight": 1.6,
+                                  "fontFamily": "Inter",
+                                  "fontSize": 12,
+                                  "fontWeight": "normal"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "Li1YP",
+                          "name": "pSep",
+                          "width": "fill_container",
+                          "height": 1,
+                          "fill": "#eeeeee"
+                        },
+                        {
+                          "type": "frame",
+                          "id": "iOx3T",
+                          "name": "p2",
+                          "width": "fill_container",
+                          "layout": "vertical",
+                          "gap": 2,
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "yOkJO",
+                              "name": "p2t",
+                              "fill": "#888888",
+                              "content": "影片 AI 物件偵測系統",
+                              "fontFamily": "Inter",
+                              "fontSize": 12,
+                              "fontWeight": "normal",
+                              "fontStyle": "italic"
+                            },
+                            {
+                              "type": "frame",
+                              "id": "SewUJ",
+                              "name": "b4",
+                              "width": "fill_container",
+                              "gap": 4,
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "id": "MOTql",
+                                  "fill": "#555555",
+                                  "content": "•",
+                                  "fontFamily": "Inter",
+                                  "fontSize": 12,
+                                  "fontWeight": "normal"
+                                },
+                                {
+                                  "type": "text",
+                                  "id": "hAYn1",
+                                  "fill": "#555555",
+                                  "textGrowth": "fixed-width",
+                                  "width": "fill_container",
+                                  "content": "規劃系統架構：React + Vite、FastAPI、YOLO、FFmpeg",
+                                  "lineHeight": 1.6,
+                                  "fontFamily": "Inter",
+                                  "fontSize": 12,
+                                  "fontWeight": "normal"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "frame",
+                              "id": "OgS6Y",
+                              "name": "b5",
+                              "width": "fill_container",
+                              "gap": 4,
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "id": "CHfaz",
+                                  "fill": "#555555",
+                                  "content": "•",
+                                  "fontFamily": "Inter",
+                                  "fontSize": 12,
+                                  "fontWeight": "normal"
+                                },
+                                {
+                                  "type": "text",
+                                  "id": "570vW",
+                                  "fill": "#555555",
+                                  "textGrowth": "fixed-width",
+                                  "width": "fill_container",
+                                  "content": "以 AI 工具（Claude Code、GitHub Copilot）驅動實作，驗證功能模組正確性",
+                                  "lineHeight": 1.6,
+                                  "fontFamily": "Inter",
+                                  "fontSize": 12,
+                                  "fontWeight": "normal"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "yr6oq",
+                  "name": "pchome",
+                  "width": "fill_container",
+                  "layout": "vertical",
+                  "gap": 8,
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "9ovZS",
+                      "name": "pHdr",
+                      "width": "fill_container",
+                      "justifyContent": "space_between",
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "B76tN",
+                          "fill": "#1a1a1a",
+                          "content": "PChome — Frontend Developer",
+                          "fontFamily": "Inter",
+                          "fontSize": 12,
+                          "fontWeight": "700"
+                        },
+                        {
+                          "type": "text",
+                          "id": "pOWMI",
+                          "fill": "#999999",
+                          "content": "2018.09 – 2024.09",
+                          "fontFamily": "Inter",
+                          "fontSize": 11,
+                          "fontWeight": "normal"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "T5aLf",
+                      "name": "entries",
+                      "width": "fill_container",
+                      "stroke": {
+                        "thickness": 0,
+                        "fill": "#ffffff00"
+                      },
+                      "layout": "vertical",
+                      "gap": 10,
+                      "padding": [
+                        2,
+                        0
+                      ],
+                      "children": [
+                        {
+                          "type": "frame",
+                          "id": "QLuIZ",
+                          "name": "dept1",
+                          "width": "fill_container",
+                          "layout": "vertical",
+                          "gap": 3,
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "pyj7e",
+                              "fill": "#888888",
+                              "content": "行銷本部 (2023.01–2024.09)",
+                              "fontFamily": "Inter",
+                              "fontSize": 12,
+                              "fontWeight": "normal",
+                              "fontStyle": "italic"
+                            },
+                            {
+                              "type": "frame",
+                              "id": "ayEFv",
+                              "name": "b6",
+                              "width": "fill_container",
+                              "gap": 4,
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "id": "MiGgj",
+                                  "fill": "#555555",
+                                  "content": "•",
+                                  "fontFamily": "Inter",
+                                  "fontSize": 12,
+                                  "fontWeight": "normal"
+                                },
+                                {
+                                  "type": "text",
+                                  "id": "jFJA4",
+                                  "fill": "#555555",
+                                  "textGrowth": "fixed-width",
+                                  "width": "fill_container",
+                                  "content": "導入 React + Vite + Tailwind 並建立共用元件模板，減少 25% 開發時程，並制定 Git Workflow 規範以應對高頻率開發需求",
+                                  "lineHeight": 1.6,
+                                  "fontFamily": "Inter",
+                                  "fontSize": 12,
+                                  "fontWeight": "normal"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "frame",
+                              "id": "CkmAw",
+                              "name": "b7",
+                              "width": "fill_container",
+                              "gap": 4,
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "id": "P6Ybv",
+                                  "fill": "#555555",
+                                  "content": "•",
+                                  "fontFamily": "Inter",
+                                  "fontSize": 12,
+                                  "fontWeight": "normal"
+                                },
+                                {
+                                  "type": "text",
+                                  "id": "D4zsu",
+                                  "fill": "#555555",
+                                  "textGrowth": "fixed-width",
+                                  "width": "fill_container",
+                                  "content": "整合商品、會員、AI 推薦等 API 並制定上稿規則，大幅降低維護成本。運用 Lighthouse 與 Looker Studio 進行性能優化與數據驅動之 UI 調整",
+                                  "lineHeight": 1.6,
+                                  "fontFamily": "Inter",
+                                  "fontSize": 12,
+                                  "fontWeight": "normal"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "GQmpp",
+                          "name": "dSep1",
+                          "width": "fill_container",
+                          "height": 1,
+                          "fill": "#eeeeee"
+                        },
+                        {
+                          "type": "frame",
+                          "id": "TMLa1",
+                          "name": "dept2",
+                          "width": "fill_container",
+                          "layout": "vertical",
+                          "gap": 3,
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "exVlS",
+                              "fill": "#888888",
+                              "content": "綜效事業部 (2022.01–2022.12)",
+                              "fontFamily": "Inter",
+                              "fontSize": 12,
+                              "fontWeight": "normal",
+                              "fontStyle": "italic"
+                            },
+                            {
+                              "type": "frame",
+                              "id": "GTamJ",
+                              "name": "b8",
+                              "width": "fill_container",
+                              "gap": 4,
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "id": "GCKF3",
+                                  "fill": "#555555",
+                                  "content": "•",
+                                  "fontFamily": "Inter",
+                                  "fontSize": 12,
+                                  "fontWeight": "normal"
+                                },
+                                {
+                                  "type": "text",
+                                  "id": "1t9hd",
+                                  "fill": "#555555",
+                                  "textGrowth": "fixed-width",
+                                  "width": "fill_container",
+                                  "content": "以前端技術角色參與 Super App 策略佈局與電商生態圈調研，與外部顧問共同規劃品牌 CIS 重構及前後台系統改版",
+                                  "lineHeight": 1.6,
+                                  "fontFamily": "Inter",
+                                  "fontSize": 12,
+                                  "fontWeight": "normal"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "nCots",
+                          "name": "dSep2",
+                          "width": "fill_container",
+                          "height": 1,
+                          "fill": "#eeeeee"
+                        },
+                        {
+                          "type": "frame",
+                          "id": "IauWh",
+                          "name": "dept3",
+                          "width": "fill_container",
+                          "layout": "vertical",
+                          "gap": 3,
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "Vfzei",
+                              "fill": "#888888",
+                              "content": "行銷本部 (2018.09–2021.12)",
+                              "fontFamily": "Inter",
+                              "fontSize": 12,
+                              "fontWeight": "normal",
+                              "fontStyle": "italic"
+                            },
+                            {
+                              "type": "frame",
+                              "id": "bhTXs",
+                              "name": "b9",
+                              "width": "fill_container",
+                              "gap": 4,
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "id": "dwv8w",
+                                  "fill": "#555555",
+                                  "content": "•",
+                                  "fontFamily": "Inter",
+                                  "fontSize": 12,
+                                  "fontWeight": "normal"
+                                },
+                                {
+                                  "type": "text",
+                                  "id": "Z0603",
+                                  "fill": "#555555",
+                                  "textGrowth": "fixed-width",
+                                  "width": "fill_container",
+                                  "content": "主導雙 11 等大型活動頁與 H5 互動遊戲開發，解決 WebView 與跨裝置相容性問題",
+                                  "lineHeight": 1.6,
+                                  "fontFamily": "Inter",
+                                  "fontSize": 12,
+                                  "fontWeight": "normal"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "frame",
+                              "id": "s8oSD",
+                              "name": "b10",
+                              "width": "fill_container",
+                              "gap": 4,
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "id": "JYPDs",
+                                  "fill": "#555555",
+                                  "content": "•",
+                                  "fontFamily": "Inter",
+                                  "fontSize": 12,
+                                  "fontWeight": "normal"
+                                },
+                                {
+                                  "type": "text",
+                                  "id": "sQYhA",
+                                  "fill": "#555555",
+                                  "textGrowth": "fixed-width",
+                                  "width": "fill_container",
+                                  "content": "導入 GTM 事件埋設與數據追蹤、對設計團隊進行前端基礎教學，優化協作效率",
+                                  "lineHeight": 1.6,
+                                  "fontFamily": "Inter",
+                                  "fontSize": 12,
+                                  "fontWeight": "normal"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "es9vZ",
+                  "name": "j4",
+                  "width": "fill_container",
+                  "layout": "vertical",
+                  "gap": 5,
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "Cg6G2",
+                      "name": "j4h",
+                      "width": "fill_container",
+                      "justifyContent": "space_between",
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "3Gjdm",
+                          "name": "j4t",
+                          "fill": "#1a1a1a",
+                          "content": "日商台灣北輪有限公司 — Web Designer",
+                          "fontFamily": "Inter",
+                          "fontSize": 12,
+                          "fontWeight": "700"
+                        },
+                        {
+                          "type": "text",
+                          "id": "3PLiT",
+                          "name": "j4p",
+                          "fill": "#999999",
+                          "content": "2016.12 – 2018.06",
+                          "fontFamily": "Inter",
+                          "fontSize": 11,
+                          "fontWeight": "normal"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "dcq03",
+                      "name": "j4bl",
+                      "width": "fill_container",
+                      "layout": "vertical",
+                      "gap": 3,
+                      "children": [
+                        {
+                          "type": "frame",
+                          "id": "aR3Fm",
+                          "name": "b11",
+                          "width": "fill_container",
+                          "gap": 4,
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "fSm3Q",
+                              "fill": "#555555",
+                              "content": "•",
+                              "fontFamily": "Inter",
+                              "fontSize": 12,
+                              "fontWeight": "normal"
+                            },
+                            {
+                              "type": "text",
+                              "id": "k05J0",
+                              "fill": "#555555",
+                              "textGrowth": "fixed-width",
+                              "width": "fill_container",
+                              "content": "與客戶需求訪談並轉化為技術規格，與後端協作確保網站穩定上線",
+                              "lineHeight": 1.6,
+                              "fontFamily": "Inter",
+                              "fontSize": 12,
+                              "fontWeight": "normal"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "bLVTU",
+                          "name": "b12",
+                          "width": "fill_container",
+                          "gap": 4,
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "HVDz5",
+                              "fill": "#555555",
+                              "content": "•",
+                              "fontFamily": "Inter",
+                              "fontSize": 12,
+                              "fontWeight": "normal"
+                            },
+                            {
+                              "type": "text",
+                              "id": "zeUGZ",
+                              "fill": "#555555",
+                              "textGrowth": "fixed-width",
+                              "width": "fill_container",
+                              "content": "維護多個日本企業官網內容（JAL、BRAND 楓月等）",
+                              "lineHeight": 1.6,
+                              "fontFamily": "Inter",
+                              "fontSize": 12,
+                              "fontWeight": "normal"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "nG9iy",
+              "name": "eduDv",
+              "width": "fill_container",
+              "height": 1,
+              "fill": "#e0e0e0"
+            },
+            {
+              "type": "frame",
+              "id": "AQphG",
+              "name": "eduSect",
+              "width": "fill_container",
+              "layout": "vertical",
+              "gap": 8,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "YvryY",
+                  "name": "eduHdr",
+                  "width": "fill_container",
+                  "stroke": {
+                    "thickness": 0
+                  },
+                  "layout": "vertical",
+                  "gap": 5,
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "vsSLy",
+                      "name": "eduLbl",
+                      "fill": "#999999",
+                      "content": "EDUCATION",
+                      "fontFamily": "Inter",
+                      "fontSize": 13,
+                      "fontWeight": "700",
+                      "letterSpacing": 1.5
+                    },
+                    {
+                      "type": "frame",
+                      "id": "HpF0F",
+                      "width": "fill_container",
+                      "height": 1,
+                      "fill": "#e0e0e0"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "9gn2w",
+                  "name": "eduRow",
+                  "width": "fill_container",
+                  "justifyContent": "space_between",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "PLlAp",
+                      "name": "eduSchool",
+                      "fill": "#1a1a1a",
+                      "content": "私立淡江大學 — 產業經濟學系",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "700"
+                    },
+                    {
+                      "type": "text",
+                      "id": "PUdJV",
+                      "name": "eduDate",
+                      "fill": "#999999",
+                      "content": "2008.09 – 2013.01",
+                      "fontFamily": "Inter",
+                      "fontSize": 11,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

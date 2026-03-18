@@ -23,8 +23,6 @@ dist-ssr
 *.sln
 *.sw?
 resume.md
-# pencil
-pencil/
 
 # Claude Code
 .claude/settings.local.json
